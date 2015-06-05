@@ -1,2 +1,3 @@
 # Community
-This is the community for Participatory Orgs. 
+
+This is the community for Participatory Orgs. Welcome!
