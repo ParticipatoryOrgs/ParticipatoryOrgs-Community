@@ -35,10 +35,13 @@ To get started, please read the [contribution guidelines](contribution-guideline
 ## RoadMap
 
 - [x] Create Github Community
-- [x] Delaware-LLC-Simple - simple governing documents for Delaware LLCs used as a root for more sophisticated forks
+- [x] [Delaware-LLC-Simple](LLC-Delaware-Simple) - simple governing documents for Delaware LLCs used as a root for more sophisticated forks
   - [ ] Convert to markdown
 - [ ] California-LLC-Simple - fork of Delaware-LLC-Simple with simple governing documents for California LLCs
-    - [ ] Convert to markdown
+  - [ ] Convert to markdown
 - [ ] Delaware-LLC-DAC - fork of Delaware-LLC-Simple for transition support Distributed Autotomous Organization (DAC)
+  - [ ] Investigate splitting of equity-related from voting related terms
 - [ ] Delaware-LLC-SlicingPie - fork of Delaware-LLC-Simple with support for the Slicing Pie form of dynamic equity.
+- [ ] Delaware-LLC-DynGov - fork of Delaware-LLC-Simple for basic dynamic governance (aka Sociocracy, Holacracy-Lite, etc.)
+
 
