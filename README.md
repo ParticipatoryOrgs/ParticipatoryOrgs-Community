@@ -4,6 +4,13 @@ The purpose of the Participatory Orgs community is to share opinionated open sou
 
 Participatory Orgs itself is a participatory organization created by many contributors from the open source and block chain communities. In spirit of transparency, our own organizational documents about the vision, governance and rules for participating are shared in this repository.
 
+## Members
+
+The Participatory Orgs Project members are:
+
+* [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com), entrepreneur, technologist and co-author of the SSL 3.0 (TLS 1.0) internet security standard. He teaches Technology Leadership in the Christopher in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu) and Blockchain University](http://blockchainu.co). He resides in Berkeley, CA.
+* [Jesse Posner](mailto:Jesse.Posner@gmail.com)
+
 ## Communications
 
 The Participatory Orgs community maintains the following communication channels:
