@@ -27,7 +27,7 @@ This repository, and its contents, including any documents, commentary, or any o
 
 This  is an open source project and we welcome contributions. There are many ways to help.
 
-To get started, please read the [contribution guidelines](contribution.md).
+To get started, please read the [contribution guidelines](CONTRIBUTING.md).
 
 ### Reporting Problems
 
