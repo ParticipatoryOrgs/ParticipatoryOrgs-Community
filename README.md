@@ -16,17 +16,22 @@ The Participatory Orgs community maintains the following communication channels:
 
 More may be added as needed.
 
+## Copyright & License
+
+These documents are Copyright (c) 2015 by the [Participatory Orgs Project](https://github.com/ParticipatoryOrgs/) and are licensed CC-BY ([Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/))
+
+## Disclaimer
+This repository, and its contents, including any documents, commentary, or any other information therein (the "**Contents**"), are not legal advice nor a substitute for an attorney. The Contents are provided solely for research and informational purposes. Please consult an attorney prior to engaging in any transactions that use or are based on the Contents.
+
 ## Contributing
 
-IPFS is an open source project and we welcome contributions. There are many ways to help.
+This  is an open source project and we welcome contributions. There are many ways to help.
+
+To get started, please read the [contribution guidelines](contribution.md).
 
 ### Reporting Problems
 
 If you find typos, mistakes, inconsistencies or other problems in the Participatory Orgs documents, please let us know by filing an issue at the appropriate issue tracker (we use multiple repositories). No issue is too small.
-
-### Contributing
-
-To get started, please read the [contribution guidelines](contribution-guidelines.md).
 
 ## Version History
 
