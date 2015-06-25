@@ -1,6 +1,6 @@
 # The Participatory Orgs Community
 
-The purpose of the Participatory Orgs community is to share opinionated open source documents that support participatory organizations, including legal, governance and best practices.
+The purpose of the Participatory Orgs community is to share a curated set of opinionated Free Cultural Works documents that support participatory organizations, including legal, governance, best practices, and even code.
 
 Participatory Orgs itself is a participatory organization created by many contributors from the open source and block chain communities. In spirit of transparency, our own organizational documents about the vision, governance and rules for participating are shared in this repository.
 
