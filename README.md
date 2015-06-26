@@ -9,7 +9,7 @@ Participatory Orgs itself is a participatory organization created by many contri
 The Participatory Orgs Project members are:
 
 * [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com), entrepreneur, technologist and co-author of the SSL 3.0 (TLS 1.0) internet security standard. He teaches Technology Leadership in the Christopher in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu) and Blockchain University](http://blockchainu.co). He resides in Berkeley, CA.
-* [Jesse Posner](mailto:Jesse.Posner@gmail.com)
+* [Jesse Posner](mailto:jesse.posner@gmail.com), startup attorney, founder of Chainmail, graduate of Blockchain University. He resides in Oakland, CA.
 
 ## Communications
 
